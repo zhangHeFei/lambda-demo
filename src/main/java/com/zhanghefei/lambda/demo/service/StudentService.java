@@ -1,4 +1,4 @@
-package com.zhanghefei.lambda.demo.server;
+package com.zhanghefei.lambda.demo.service;
 
 import com.zhanghefei.lambda.demo.stackoverflow.Student;
 import com.zhanghefei.lambda.demo.stackoverflow.Teacher;
